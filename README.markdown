@@ -1,4 +1,6 @@
 # PdfiumViewer
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaximizer%2FPdfiumViewer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaximizer%2FPdfiumViewer?ref=badge_shield)
+
 
 Apache 2.0 License.
 
@@ -78,3 +80,6 @@ Bugs should be reported through github at
 ## License
 
 PdfiumViewer is licensed under the Apache 2.0 license. See the license details for how PDFium is licensed.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaximizer%2FPdfiumViewer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaximizer%2FPdfiumViewer?ref=badge_large)
